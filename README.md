@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🚢 EnemyLossTrackerBot 🤖</h1>
+  <h1 align="center">EnemyLossTrackerBot 🤖</h1>
 </p>
 
 <p align="center">
@@ -19,6 +19,10 @@ This repository contains the source code for a Telegram bot, written using Googl
 
 1. Google account. If you don't have one, [create a Google account](https://accounts.google.com/SignUp).
 2. Bot token from BotFather in Telegram. If you don't have the token, [create a new bot in Telegram](https://core.telegram.org/bots#6-botfather).
+
+### 🤖 Access the bot
+
+You can access the bot by clicking this [link](https://t.me/EnemyLossTracker_bot).
 
 ## 📖 Further Reading
 
